@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">arsitektur</string>
+    <string name="football_scoreboard">Football Scoreboard</string>
+    <string name="team_a_0">Team A: 0</string>
+    <string name="team_b_0">Team B: 0</string>
+    <string name="add_1_to_team_a">Add 1 to Team A</string>
+    <string name="add_1_to_team_b">Add 1 to Team B</string>
+</resources>
